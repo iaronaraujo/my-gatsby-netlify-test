@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 export default function Home() {
   return (
-    <div style={{ color: `purple`, fontSize: `72px` }}>
+    <div style={{ color: `#E42760`, fontSize: `72px` }}>
       <h1>Hello VTEX!!!</h1>
       <p>More info!</p>
       <div>
